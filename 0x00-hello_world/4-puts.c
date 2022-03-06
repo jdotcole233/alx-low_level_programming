@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description: Outputs progamming message
+ *
  * Return: Always 0 (Success)
  */
 
