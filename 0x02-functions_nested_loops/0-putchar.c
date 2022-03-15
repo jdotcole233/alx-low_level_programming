@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "main.h"
 /**
  * main - Entry point
@@ -10,6 +9,9 @@
 
 int main(void)
 {
-	system("echo _putchar");
+	char *c = "_putchar";
+	int len;
+
+	_putchar(c, len);
 	return (0);
 }
